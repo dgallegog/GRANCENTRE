@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GranCentre</string>
+    <string name="business">BUSINESS</string>
+    <string name="eventos">EVENTOS</string>
+    <string name="gran_centre">Gran Centre</string>
+    <string-array name="spinnerItems">
+        <item>Perruqueries</item>
+        <item>Tallers</item>
+        <item>Botigues</item>
+
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="peliculas">Peliculas</string>
+</resources>
